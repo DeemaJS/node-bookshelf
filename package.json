@@ -27,6 +27,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+<<<<<<< HEAD
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DeemaJS/node-bookshelf.git"
@@ -36,6 +37,27 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/DeemaJS/node-bookshelf/issues"
+=======
+  "dependencies": {
+    "async": "*",
+    "bcrypt": "*",
+    "bluebird": "*",
+    "body-parser": "*",
+    "bookshelf": "*",
+    "ejs": "*",
+    "errorhandler": "*",
+    "express": "*",
+    "imagemagick": "*",
+    "jquery": "*",
+    "knex": "*",
+    "lodash": "*",
+    "method-override": "*",
+    "moment": "*",
+    "multer": "*",
+    "mysql": "*",
+    "nodemon": "*",
+    "request": "*"
+>>>>>>> 9ae24e486d15bb124c13f7f000fb687cb19a0f26
   },
   "homepage": "https://github.com/DeemaJS/node-bookshelf#readme"
 }
